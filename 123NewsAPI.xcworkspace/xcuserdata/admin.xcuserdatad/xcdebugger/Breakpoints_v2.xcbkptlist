@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7F2A8588-76DA-4683-91E1-F0D70210A14D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA6CEF80-0AE3-4AD5-BD2E-1EEB01C64B1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "123NewsAPI/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "searchButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9B9C4A5-F27A-4530-9212-E3556E4CAC1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "123NewsAPI/SettingsOfFilterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "SettingsOfFilterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E9B9C4A5-F27A-4530-9212-E3556E4CAC1C - 2a48a6b40afb124d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_23NewsAPI.SettingsOfFilterViewController.countryArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "123NewsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/123NewsAPI/123NewsAPI/SettingsOfFilterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "E9B9C4A5-F27A-4530-9212-E3556E4CAC1C - 1b43f461490224db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_23NewsAPI.SettingsOfFilterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _23NewsAPI.SettingsOfFilterViewController"
+                  moduleName = "123NewsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/123NewsAPI/123NewsAPI/SettingsOfFilterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1002">
+               </Location>
+               <Location
+                  uuid = "E9B9C4A5-F27A-4530-9212-E3556E4CAC1C - c86e572840be2ea5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_23NewsAPI.SettingsOfFilterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_23NewsAPI.SettingsOfFilterViewController&gt;"
+                  moduleName = "123NewsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/123NewsAPI/123NewsAPI/SettingsOfFilterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "943">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
